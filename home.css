@@ -12,3 +12,13 @@ body {
     font-size: large;
     text-align: center;
 }
+
+#protag {
+    text-align: left;
+    float: left;
+}
+
+#enemy {
+    text-align: right;
+    float: right;
+}
